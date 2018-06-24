@@ -1,0 +1,28 @@
+$color-black: #4d4d4d;
+$color-white: #fff;
+$color-red: rgb(138, 23, 40);
+
+body{
+  font-family: 'Roboto', sans-serif !important;
+}
+.lukeSkywalker{
+  .title{
+    border-left: 7px solid $color-red;
+    margin:20px 0;
+    padding-left: 20px;
+    .font{
+      font-size: 24px;
+      font-color: #4d4d4d;
+      font-weight: 600;
+    }
+  }
+  .lukeCard{
+    background-color:$color-red;
+    padding: 30px 0;
+    .desc td{
+      font-size: 16px;
+      color: $color-white;
+      line-height: 1.8;
+    }
+  }
+}

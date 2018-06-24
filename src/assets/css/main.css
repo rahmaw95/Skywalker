@@ -1,0 +1,10 @@
+.lukeCard {
+  background-color: #4d4d4d; }
+  .lukeCard .position {
+    padding: 30px 15px; }
+    .lukeCard .position .desc p {
+      font-size: 16px;
+      color: #fff;
+      line-height: 1.4; }
+
+/*# sourceMappingURL=main.css.map */
